@@ -1,6 +1,6 @@
 ---
 question_id: usd-rub-2026-12
-author: nasticccs-tech
+author: nastticccs-tech
 topic: экономика - валютный курс
 opens: 2026-11-12
 resolve_by: 2026-12-25
@@ -99,4 +99,4 @@ outcome: —
 |---|---|---|---|
 | — | — | — | — |
 
-**Разбор:** заполняется после 18.12.2026.# forecast-usd-2026
+**Разбор:** заполняется после 25.12.2026.
