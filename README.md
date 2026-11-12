@@ -4,7 +4,7 @@ author: nastticccs-tech
 topic: экономика - валютный курс
 opens: 2026-11-12
 resolve_by: 2026-12-25
-horizon: Н2
+horizon: H2
 date_set_by: Банк России, календарная дата
 forecast_pct: 60
 ai_baseline_pct: 45
